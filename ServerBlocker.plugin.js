@@ -2,7 +2,7 @@
  * @name ServerBlocker
  * @author axy
  * @authorLink https://github.com/axralty
- * @source https://github.com/axralty
+ * @source https://github.com/axralty/ServerBlocker
  * @description Prevent accessing blocked servers entirely.
  * @version 2.0.0
  */
